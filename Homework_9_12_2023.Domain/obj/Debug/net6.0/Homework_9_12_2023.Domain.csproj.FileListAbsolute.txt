@@ -1,0 +1,11 @@
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\bin\Debug\net6.0\Homework_9_12_2023.Domain.deps.json
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\bin\Debug\net6.0\Homework_9_12_2023.Domain.dll
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\bin\Debug\net6.0\Homework_9_12_2023.Domain.pdb
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.AssemblyInfoInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.AssemblyInfo.cs
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.dll
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\refint\Homework_9_12_2023.Domain.dll
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\Homework_9_12_2023.Domain.pdb
+C:\Users\Feteli Isgenderov\source\repos\Homework_9_12_2023\Homework_9_12_2023.Domain\obj\Debug\net6.0\ref\Homework_9_12_2023.Domain.dll
